@@ -10,6 +10,7 @@ import javax.swing.JOptionPane;
  *
  * @HuynhBaHuan
  */
+//text github
 public class Home extends javax.swing.JFrame {
     public String email;
 
