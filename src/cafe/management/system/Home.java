@@ -8,14 +8,12 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Admin
+ * @HuynhBaHuan
  */
 public class Home extends javax.swing.JFrame {
     public String email;
 
-    /**
-     * Creates new form Home
-     */
+    
     public Home() {
         initComponents();
     }
